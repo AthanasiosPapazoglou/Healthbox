@@ -2,7 +2,8 @@
 # Healthbox
 An academic group project on a simple Environmental Monitoring &amp; Evaluation System.
 
-#Project Colaborators:
+Project Colaborators:
+
 Παπαγεωργίου Αθανάσιος 
 Παπάζογλου Αθανάσιος
 Μπαλαμπανίδης Νικόλαος
